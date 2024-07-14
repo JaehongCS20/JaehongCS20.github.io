@@ -534,8 +534,7 @@ blockquote p {
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
-  border-radius: 50%;
+  max-width: 120px;
 }
 .author-discrip {
   display: table-cell;
@@ -708,7 +707,6 @@ blockquote p {
     min-width: 165px;
     float: left;
     margin-right: 1.69492%;
-    opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
   }
@@ -728,11 +726,10 @@ blockquote p {
     display: block;
     width: auto;
     height: auto;
-    text-align: center;
+    text-align: left;
   }
   .author-avatar img {
-    padding: 5px;
-    border: 1px solid #f2f3f3;
+    padding-bottom: 5px;
   }
   .author-discrip {
     display: block;

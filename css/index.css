@@ -273,12 +273,12 @@ blockquote p {
   z-index: 20;
 }
 .header_wrap {
-  max-width: 1400px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   clear: both;
   padding: 1.6rem 2rem 1rem;
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 #blog_name {
   display: inline-block;

@@ -277,8 +277,8 @@ blockquote p {
   margin-left: auto;
   margin-right: auto;
   clear: both;
-  padding: 1.6rem 2rem 1rem;
-  font-size: 1.6rem;
+  padding: 1.6rem 2rem 0rem;
+  font-size: 1.8rem;
 }
 #blog_name {
   display: inline-block;
@@ -288,7 +288,7 @@ blockquote p {
 #blog_name a {
   display: block;
   margin: 0 1.6rem;
-  padding: 0.8rem 0;
+  padding: 0.4rem 3rem 1.4rem 0rem;
   color: #7a8288;
   font-weight: 600;
   font-size: 2.2rem;
@@ -820,7 +820,7 @@ blockquote p {
 }
 .nav-wrap {
   position: fixed;
-  bottom: 220px;
+  bottom: 300px;
   right: 0;
   max-width: 50px;
   visibility: hidden;

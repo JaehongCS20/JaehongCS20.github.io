@@ -279,6 +279,7 @@ blockquote p {
   clear: both;
   padding: 1.6rem 2rem 1rem;
   font-size: 1.6rem;
+  vertical-align: top;
 }
 #blog_name {
   display: inline-block;
@@ -820,7 +821,7 @@ blockquote p {
 }
 .nav-wrap {
   position: fixed;
-  bottom: 220px;
+  bottom: 20%;
   right: 0;
   max-width: 50px;
   visibility: hidden;

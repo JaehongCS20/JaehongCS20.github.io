@@ -291,6 +291,7 @@ blockquote p {
   padding: 0.8rem 0;
   color: #7a8288;
   font-weight: 600;
+  font-size: 2.2rem;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;

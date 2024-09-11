@@ -277,13 +277,13 @@ blockquote p {
   margin-left: auto;
   margin-right: auto;
   clear: both;
-  padding: 1.6rem 2rem 1rem;
+  padding: 1.6rem 2rem 0;
   font-size: 1.6rem;
-  vertical-align: bottom;
 }
 #blog_name {
   display: inline-block;
   width: auto;
+  vertical-align: top;
 }
 #blog_name a {
   display: block;

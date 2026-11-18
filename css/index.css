@@ -987,3 +987,26 @@ blockquote p {
 ::-webkit-scrollbar-thumb {
   background-color: rgba(122,130,136,0.4);
 }
+
+/* Publication entries: colors follow jongse-park.github.io/publications */
+.page article .pub-authors {
+  color: #666666;
+}
+.page article .pub-venue {
+  color: #770001;
+}
+.page article .pub-award {
+  color: #4F8F01;
+}
+.page article a.pub-paper {
+  color: #1D90FF;
+}
+.page article a.pub-website {
+  color: #7A3EFF;
+}
+.page article a.pub-code {
+  color: #009193;
+}
+.page article a.pub-talk {
+  color: #FF8C00;
+}
